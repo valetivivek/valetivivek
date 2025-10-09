@@ -1,5 +1,5 @@
 # 💫 About Me:
-📡 I’m currently working on:  <br>Building **Comite**, a comic reading platform, and an **AI Accreditation dashboard** for evaluating fairness in models.  <br><br>🤝 I’m looking to collaborate on:  <br>Open-source full-stack projects, especially with React, Go, or Python.  <br><br>👐 I’m looking for help with:  <br>Improving UI/UX and making deployments smoother on Vercel/Streamlit.  <br><br>🌱 I’m currently learning:  <br>Machine learning at UF and diving deeper into backend systems. <br>
+📡 I’m currently working on:  <br>Building **Crnn**, a modren web browser.  <br><br>🤝 I’m looking to collaborate on:  <br>Open-source full-stack projects, especially with React, Go, or Python.  <br><br>🌱 I’m currently learning:  <br>Machine learning at UF and diving deeper into backend systems. <br>
 
 
 ## 🌐 Socials:
