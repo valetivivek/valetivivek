@@ -1,6 +1,6 @@
 # 💫 About Me:
 📡 I’m currently working on:  <br>
-Full-stack projects and backend systems at UF.  <br><br>
+  <br><br>
 
 🤝 I’m looking to collaborate on:  <br>
 Open-source full-stack projects, especially with React, Go, or Python.  <br><br>
@@ -8,6 +8,10 @@ Open-source full-stack projects, especially with React, Go, or Python.  <br><br>
 🌱 I’m currently learning:  <br>
 Machine learning at UF and diving deeper into backend systems. <br>
 
+# 🔧 Projects & Contributions
+**[Droppy](https://github.com/iordv/Droppy) Extensions** - Custom extensions for the macOS notch utility app:<br>
+- **NotificationHUD** - Displays system notifications in the notch area<br>
+- **Caffeine** - Prevents your Mac from sleeping with a quick toggle<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_vivek_valeti_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/valetivishnuvivek) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vivekvaleti7053@gmail.com) 
