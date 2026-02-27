@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on some random full-stack projects and Droppy extensions (NotifyMe, Caffeine)<br>👯 I’m looking to collaborate on AI assistant projects, self-hosted tools, or any full-stack project that sounds interesting<br>🤝 I’m looking for help with Nothing right now, but always down to learn new tech<br>🌱 I’m currently learning Whatever's needed for the job hunt.<br>💬 Ask me about Terminal ricing, self-hosting setups, or why Python is just the easiest choice<br>⚡ Fun fact I've probably spent more time customizing my terminal than actually coding in it
+🔭 I’m currently working on some full-stack projects and Droppy extensions<br>👯 I’m looking to collaborate on AI assistant projects, self-hosted tools, or any full-stack project that sounds interesting<br>🤝 I’m looking for help with Nothing right now, but always down to learn new tech<br>🌱 I’m currently learning Whatever's needed for the job hunt.<br>💬 Ask me about Terminal ricing, self-hosting setups, or why Python is just the easiest choice<br>⚡ Fun fact I've probably spent more time customizing my terminal than actually coding in it
 
 
 ## 🌐 Socials:
