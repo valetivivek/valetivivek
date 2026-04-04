@@ -1,4 +1,4 @@
-# 💫 About Me:
+[# 💫 About Me:
 👯 I’m looking to collaborate on AI assistant projects, self-hosted tools, or any full-stack project that sounds interesting<br>💬 Ask me about Terminal ricing, self-hosting setups, or why Python is just the easiest choice<br>⚡ Fun fact I've probably spent more time customizing my terminal than actually coding in it
 
 
@@ -14,3 +14,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=valetivivek&icon=0&color=0)](https://visitcount.itsvg.in)
+](https://www.linkedin.com/in/valetivishnuvivek/)
