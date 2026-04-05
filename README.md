@@ -12,14 +12,14 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="325" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
 
 ```yaml
 name: Vishnu Vivek Valeti
 
 current_focus:
   - AI agents & multi-agent orchestration
-  - Learning how to build systems where LLMs do useful work autonomously
+  - Learning how LLMs do useful work autonomously
 
 open_to_collaborate_on:
   - Developer tools
